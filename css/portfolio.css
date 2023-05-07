@@ -1,0 +1,24 @@
+h2{
+    text-align: center;
+}
+.port-all{
+    display: flex;
+}
+.port-cover{
+    display: flex;
+}
+img{
+    width: 45%;
+}
+li{
+    list-style: none;
+    margin: .5rem 0;
+}
+.port-item{
+    background-color: rgb(232, 227, 227);
+    box-shadow: 2px 2px 2px rgb(168, 168, 168);
+    gap:.5rem;
+    margin: .5rem;
+    padding:.5rem 0;
+    border-radius: 5px;
+}
